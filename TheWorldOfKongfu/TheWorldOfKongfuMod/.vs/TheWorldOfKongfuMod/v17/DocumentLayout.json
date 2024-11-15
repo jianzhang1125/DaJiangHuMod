@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\multiexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\multiexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|d:\\mod\\theworldofkongfu\\theworldofkongfumod\\theworldofkongfumod\\pluginmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\pluginmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\alwaysstealpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\alwaysstealpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\displaybooktraitinfopatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\displaybooktraitinfopatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\mapitemhintpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\mapitemhintpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\richtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\richtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\equipenhance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\equipenhance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\displaytraitchainspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\displaytraitchainspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\reflectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\reflectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\theworldofkongfumod\\specialenemypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095AE17-5C23-4FA3-B5B0-E78DD99EBB87}|TheWorldOfKongfuMod\\TheWorldOfKongfuMod.csproj|solutionrelative:theworldofkongfumod\\specialenemypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayBookTraitInfoPatch.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\DisplayBookTraitInfoPatch.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\DisplayBookTraitInfoPatch.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\DisplayBookTraitInfoPatch.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\DisplayBookTraitInfoPatch.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:15:51.823Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipEnhance.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\EquipEnhance.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\EquipEnhance.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\EquipEnhance.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\EquipEnhance.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:13:34.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\StringExtensions.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\StringExtensions.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:28.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReflectionExtensions.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\ReflectionExtensions.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\ReflectionExtensions.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\ReflectionExtensions.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\ReflectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:26.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RichText.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\RichText.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\RichText.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\RichText.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\RichText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiExp.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\MultiExp.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\MultiExp.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\MultiExp.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\MultiExp.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:51:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlwaysStealPatch.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\AlwaysStealPatch.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\AlwaysStealPatch.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\AlwaysStealPatch.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\AlwaysStealPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:15:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpecialEnemyPatch.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\SpecialEnemyPatch.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\SpecialEnemyPatch.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\SpecialEnemyPatch.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\SpecialEnemyPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:56:59.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapItemHintPatch.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\MapItemHintPatch.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\MapItemHintPatch.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\MapItemHintPatch.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\MapItemHintPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:55:58.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\PluginInfo.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\PluginInfo.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\PluginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:50:28.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PluginMain.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\PluginMain.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\PluginMain.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\PluginMain.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\PluginMain.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:16:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayTraitChainsPatch.cs",
+              "DocumentMoniker": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\DisplayTraitChainsPatch.cs",
+              "RelativeDocumentMoniker": "TheWorldOfKongfuMod\\DisplayTraitChainsPatch.cs",
+              "ToolTip": "D:\\Mod\\TheWorldOfKongfu\\TheWorldOfKongfuMod\\TheWorldOfKongfuMod\\DisplayTraitChainsPatch.cs",
+              "RelativeToolTip": "TheWorldOfKongfuMod\\DisplayTraitChainsPatch.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAA2wEsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:58:38.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

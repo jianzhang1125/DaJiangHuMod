@@ -1,0 +1,6 @@
+D:\Mod\TheWorldOfKongfu\TheWorldOfKongfuMod\TheWorldOfKongfuMod\obj\Debug\TheWorldOfKongfuMod.csproj.AssemblyReference.cache
+D:\Mod\TheWorldOfKongfu\TheWorldOfKongfuMod\TheWorldOfKongfuMod\obj\Debug\TheWorldOfKongfuMod.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Steam\steamapps\common\TWOKF\BepInEx\plugins\TheWorldOfKongfuMod\TheWorldOfKongfuMod.dll
+D:\Program Files (x86)\Steam\steamapps\common\TWOKF\BepInEx\plugins\TheWorldOfKongfuMod\TheWorldOfKongfuMod.pdb
+D:\Mod\TheWorldOfKongfu\TheWorldOfKongfuMod\TheWorldOfKongfuMod\obj\Debug\TheWorldOfKongfuMod.dll
+D:\Mod\TheWorldOfKongfu\TheWorldOfKongfuMod\TheWorldOfKongfuMod\obj\Debug\TheWorldOfKongfuMod.pdb
